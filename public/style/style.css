@@ -102,6 +102,9 @@ img {
 }
 
 .blog-wrapper {
+    display: flex;
+    flex-direction: row;
+
     margin-top: 50px;
     height: 50%;
     display: flex;
